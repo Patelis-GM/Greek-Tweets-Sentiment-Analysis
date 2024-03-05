@@ -3,7 +3,7 @@ This repository contains three models developed for classifying tweets related t
 The models were primarily constructed utilizing sklearn, PyTorch, and the hyperparameter optimization framework Optuna.
 Each notebook within the project repository contains various text preprocessing methods, including capitalization, accent removal, stemming, lemmatization, and more.
 
-# Notebooks:
+# Notebooks
 - Logistic-Regression-Model.ipynb: This notebook details the development of a Logistic Regression classifier using primarily the sklearn library.
 
 - Feed-Forward-Neural-Network.ipynb: This notebook outlines the construction of a Softmax classifier utilizing the PyTorch framework.
